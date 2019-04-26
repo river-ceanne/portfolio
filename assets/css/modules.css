@@ -22,6 +22,7 @@ br.clear {
   .image img {
     display: block;
     width: 100%;
+    border-radius: 20px;
   }
 
   .image.avatar48 {
@@ -44,6 +45,13 @@ br.clear {
     display: block;
     width: 100%;
     margin: 0 0 2em 0;
+  }
+
+  .image.featured img{
+    display: block;
+    width: 70%;
+    margin-left: 15%;
+    margin-right: 10%;
   }
 
   .image.left {
