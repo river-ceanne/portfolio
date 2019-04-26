@@ -22,13 +22,11 @@ br.clear {
   .image img {
     display: block;
     width: 100%;
-    border-radius: 20px;
   }
 
   .image.avatar48 {
     width: 48px;
     height: 48px;
-    background: #f00;
   }
 
     .image.avatar48 img {
@@ -39,6 +37,11 @@ br.clear {
   .image.fit {
     display: block;
     width: 100%;
+  }
+
+  .image.fit img{
+   border-top-left-radius: 20px;
+   border-top-right-radius: 20px;
   }
 
   .image.featured {
@@ -52,6 +55,7 @@ br.clear {
     width: 70%;
     margin-left: 15%;
     margin-right: 10%;
+    border-radius: 30px;
   }
 
   .image.left {
@@ -267,6 +271,8 @@ button,
     margin: 0;
     padding: 1em 0 1em 0;
     font-size: 0.8em;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
   }
 
     .item header h3 {
