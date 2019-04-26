@@ -2,23 +2,23 @@
 
 ## FEATURE 1
 
-Number and name of feature: ________________________________
+Number and name of feature: __
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 1 hour
 
-Start time: _____
+Start time: 9:30AM
 
-Finish time: _____
+Finish time: 
 
 Actual time needed to complete: _____
 
 ## FEATURE 2
 
-Number and name of feature: ________________________________
+Number and name of feature: __
 
-Estimate of time needed to complete: _____
+Estimate of time needed to complete: 2 hours
 
-Start time: _____
+Start time: 
 
 Finish time: _____
 

@@ -1,0 +1,15 @@
+@import url("font-awesome.min.css");
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
+
+h2.alt {
+  color: #888;
+}
+
+h2.alt strong {
+    color: #666;
+}
+
+br.clear {
+  clear: both;
+}
+
