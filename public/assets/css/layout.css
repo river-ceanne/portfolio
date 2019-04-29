@@ -21,6 +21,7 @@ footer {
 margin: 2em 0 0 0;
 }
 
+
 /* container */
 
 .container {
@@ -1766,12 +1767,18 @@ section, article {
 				padding: 10em 0;
 				background-size: cover;
 				background-position: center center;
+      }
+      
+      #main > section.one {
+				margin-top: 0;
 			}
 
-			#main > section.one {
-				background-color: #81918E;
-				background-image: url("../../images/banner.jpg");
-			}
+      video {
+        position: absolute;
+        height: 90%;
+        top: 0;
+        left: 20%;
+      }
 
 			#main > section.two {
 				background-color: #f5fafa;
