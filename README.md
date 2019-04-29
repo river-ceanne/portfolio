@@ -23,3 +23,15 @@ Start time: 11AM
 Finish time: 1PM
 
 Actual time needed to complete: 2 hours
+
+LAB-5A
+
+Number and name of feature: __Add Functionality__
+
+Estimate of time needed to complete: 2 Hours
+
+Start time: 9AM
+
+Finish time: 11AM
+
+Actual time needed to complete: 2 hours
